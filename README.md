@@ -3,7 +3,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title></title>
+		<title>学习笔记</title>
 	</head>
 	<body>
   <p>123</p>
