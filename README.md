@@ -9,5 +9,6 @@
 		<a href="https://github.com/FOXNCAT/web-Learning-notes/blob/master/image/photo3.jpg">photo3</a>
 		<a href="https://github.com/FOXNCAT/web-Learning-notes/blob/master/image/photo4.jpg">photo4</a>
 		<img id="myimage" src="https://github.com/FOXNCAT/web-Learning-notes/blob/master/image/photo2.jpg" />
+		<script type="text/javascript" src="https://github.com/FOXNCAT/web-Learning-notes/blob/master/read.js" />
 	</body>
 </html>
