@@ -5,6 +5,6 @@
 		<meta charset="UTF-8">
 	</head>
 	<body>
-  <img src="https://github.com/FOXNCAT/web-Learning-notes/blob/master/image/photo1.jpg" />
+  <img src="https://github.com/FOXNCAT/web-Learning-notes/blob/master/image/photo2.jpg" />
 	</body>
 </html>
